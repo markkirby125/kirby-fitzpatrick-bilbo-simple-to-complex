@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-bilbo-simple-to-complex
-description: "Ground readers in familiar Shire primitives before embarking on Mordor complexity." Use this when working on fitzpatrick bilbo simple to complex.
+description: "Ground readers in familiar Shire primitives before embarking on Mordor complexity. Use this when working on fitzpatrick bilbo simple to complex."
 category: "Writing & Communication"
 triggers:
   - "bilbo simple to complex"
